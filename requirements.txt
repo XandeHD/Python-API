@@ -1,0 +1,5 @@
+Flask==2.0.1
+pyodbc==4.0.32
+
+
+#python api.py - Comando para rodar a API em Python

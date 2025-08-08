@@ -6,7 +6,7 @@ DATABASE_CONFIG = {
     'server': '10.1.1.19\\SQL2022',
     'database': 'GestiLogistic',
     'username': 'sa',
-    'password': 'admin2014#'
+    'password': 'password'
 }
 
 CLIENT_CONFIG = {
